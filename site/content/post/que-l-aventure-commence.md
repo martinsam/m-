@@ -5,6 +5,7 @@ description: Intro de l'espace
 image: /img/about-single-origin.jpg
 ---
 L'avantage c'est de la folie
+Ok je je viens de rajouter une image
 
 
 ![Vieux crouton](/img/about-direct-sourcing.jpg)
